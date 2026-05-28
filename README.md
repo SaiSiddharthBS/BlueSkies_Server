@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/License-MIT-white?style=for-the-badge&labelColor=0a0a0a" alt="License"/>
 </p>
 
-<h1 align="center">☁️ BlueSkies</h1>
+<p align="center">
+  <img src="assets/logo.png" width="600" alt="BlueSkies Logo"/>
+</p>
 
 <p align="center">
   <strong>A zero-cost, enterprise-grade private cloud server and NAS architecture</strong><br/>
