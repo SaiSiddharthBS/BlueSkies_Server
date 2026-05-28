@@ -4,7 +4,8 @@
 
 <p align="center">
   <strong>A zero-cost, enterprise-grade private cloud server and NAS architecture</strong><br/>
-  <em>Engineered to permanently bypass commercial cloud storage limits</em>
+  <em>Engineered to permanently bypass commercial cloud storage limits</em> <br>
+  <br>
 </p>
 
 <p align="center">
