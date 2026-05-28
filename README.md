@@ -14,10 +14,6 @@
   <em>Engineered to permanently bypass commercial cloud storage limits</em>
 </p>
 
-<p align="center">
-  <a href="https://saisiddharthbs.github.io/BlueSkies/">🔗 Live Dashboard</a>
-</p>
-
 ---
 
 ## 📋 Table of Contents
