@@ -17,7 +17,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Executive Summary](#-executive-summary)
 - [Live Frontend Tech Stack](#-live-frontend-dashboard)
@@ -36,7 +36,7 @@
 
 ---
 
-## 📖 Executive Summary
+## Executive Summary
 
 **BlueSkies** is a fully operational, zero-cost private cloud storage and home server system designed to solve a real-world problem: the **128GB storage limitation** of an iPhone combined with the **recurring subscription costs** of iCloud, Google Photos, and Dropbox.
 
@@ -77,7 +77,7 @@ Instead of paying for third-party cloud services, this project engineers a compl
 
 ---
 
-## 🏗️ System Architecture Overview
+## System Architecture Overview
 
 ```mermaid
 graph TB
@@ -130,7 +130,7 @@ graph TB
 
 ---
 
-## 🌐 Network Topology
+## Network Topology
 
 ```mermaid
 graph LR
@@ -161,7 +161,7 @@ graph LR
 
 ---
 
-## 🔄 Data Flow & Automation Pipeline
+## Data Flow & Automation Pipeline
 
 ### Nightly Photo Backup Flow
 
@@ -217,7 +217,7 @@ flowchart LR
 
 ---
 
-## 🧠 Component Mind Map
+## Component Mind Map
 
 ```mermaid
 mindmap
@@ -265,7 +265,7 @@ mindmap
 
 ---
 
-## ✨ Feature Breakdown
+## Feature Breakdown
 
 ### 1. 📷 Zero-Cost Original Quality Photo Backup
 
@@ -345,7 +345,7 @@ An architectural blueprint for a **Manifest V3 Chrome Extension** designed to:
 
 ---
 
-## 🔒 Security Architecture
+## Security Architecture
 
 ```mermaid
 graph TB
@@ -394,7 +394,7 @@ graph TB
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Version / Detail |
 |:---|:---|:---|
@@ -418,7 +418,7 @@ graph TB
 
 ---
 
-## 📂 Directory Structure
+## Directory Structure
 
 ```
 BlueSkies/
@@ -455,7 +455,7 @@ BlueSkies/
 
 ---
 
-## 🚀 Deployment Guide
+## Deployment Guide
 
 ### Prerequisites
 - Windows 10/11 with a secondary storage drive (D:)
@@ -534,7 +534,7 @@ stateDiagram-v2
 
 ---
 
-## 📅 Implementation Timeline
+## Implementation Timeline
 
 ```mermaid
 gantt
@@ -572,7 +572,7 @@ gantt
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 | Issue | Cause | Fix |
 |:---|:---|:---|
