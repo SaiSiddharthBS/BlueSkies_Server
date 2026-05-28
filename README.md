@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-OPERATIONAL-00ff00?style=for-the-badge&labelColor=0a0a0a&logo=statuspal&logoColor=00ff00" alt="Status"/>
-  <img src="https://img.shields.io/badge/Architecture-Windows%20%7C%20iOS%20%7C%20Tailscale-0077ff?style=for-the-badge&labelColor=0a0a0a&logo=icloud&logoColor=0077ff" alt="Arch"/>
-  <img src="https://img.shields.io/badge/Cost-$0.00%20Forever-00f0ff?style=for-the-badge&labelColor=0a0a0a&logo=zeromq&logoColor=00f0ff" alt="Cost"/>
-  <img src="https://img.shields.io/badge/License-MIT-white?style=for-the-badge&labelColor=0a0a0a" alt="License"/>
-</p>
-
-<p align="center">
   <img src="assets/logo.png" width="600" alt="BlueSkies Logo"/>
 </p>
 
 <p align="center">
   <strong>A zero-cost, enterprise-grade private cloud server and NAS architecture</strong><br/>
   <em>Engineered to permanently bypass commercial cloud storage limits</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-OPERATIONAL-00ff00?style=for-the-badge&labelColor=0a0a0a&logo=statuspal&logoColor=00ff00" alt="Status"/>
+  <img src="https://img.shields.io/badge/Architecture-Windows%20%7C%20iOS%20%7C%20Tailscale-0077ff?style=for-the-badge&labelColor=0a0a0a&logo=icloud&logoColor=0077ff" alt="Arch"/>
+  <img src="https://img.shields.io/badge/Cost-$0.00%20Forever-00f0ff?style=for-the-badge&labelColor=0a0a0a&logo=zeromq&logoColor=00f0ff" alt="Cost"/>
+  <img src="https://img.shields.io/badge/License-MIT-white?style=for-the-badge&labelColor=0a0a0a" alt="License"/>
 </p>
 
 ---
