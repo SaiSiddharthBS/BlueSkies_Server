@@ -1,0 +1,22 @@
+# Media and private folders
+Downloads/
+Movies/
+Shows/
+TV Shows/
+Watch/
+imports/
+originals/
+storage/
+
+# Databases and environment files
+FileBrowser/database.db
+FileBrowser/filebrowser.db
+telemetry_backup.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and config
+config.json
+Website.txt
