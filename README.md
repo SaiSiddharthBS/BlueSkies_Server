@@ -20,7 +20,7 @@
 ## 📋 Table of Contents
 
 - [Executive Summary](#-executive-summary)
-- [Live Frontend Dashboard](#-live-frontend-dashboard)
+- [Live Frontend Tech Stack](#-live-frontend-dashboard)
 - [System Architecture Overview](#-system-architecture-overview)
 - [Network Topology](#-network-topology)
 - [Data Flow & Automation Pipeline](#-data-flow--automation-pipeline)
@@ -52,12 +52,6 @@ Instead of paying for third-party cloud services, this project engineers a compl
 > **Result:** A fully automated "Safety Net" that backs up original-quality, uncompressed photos every night — without a single rupee spent on software licenses.
 
 ---
-
-## 🌐 Live Frontend Dashboard
-
-The project includes a production-deployed, high-performance frontend experience hosted on **GitHub Pages**:
-
-**🔗 [https://saisiddharthbs.github.io/BlueSkies/](https://saisiddharthbs.github.io/BlueSkies/)**
 
 ### Frontend Tech Stack
 
